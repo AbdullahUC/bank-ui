@@ -1,1 +1,1 @@
-# bank-ui by Abdullah Chowdhury
+# Bank UI by Abdullah Chowdhury
