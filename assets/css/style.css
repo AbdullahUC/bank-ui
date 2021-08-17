@@ -17,6 +17,7 @@ nav{
 .nav-link{
     color: #888 !important;
     height: 100%;
+    border-bottom: 2px solid #fff;
 }
 .nav-link:hover{
     color: #000;
